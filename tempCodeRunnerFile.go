@@ -1,0 +1,1 @@
+data = append(data, fmt.Sprintf("<tr><td>%s</td><td>%s</td><td>%s</td></tr>", stud.Sid, stud.Name, stud.Course))
